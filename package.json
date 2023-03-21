@@ -1,0 +1,16 @@
+{
+  "name": "google-trends",
+  "version": "1.0.0",
+  "description": "Google Trends API Call",
+  "main": "PageGoogleTrendsPull.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node PageGoogleTrendsPull.js"
+  },
+  "author": "Steven Le",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2",
+    "google-trends-api": "^4.9.2"
+  }
+}
