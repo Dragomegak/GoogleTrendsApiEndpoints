@@ -76,7 +76,7 @@ app.get('/', (req, res) => {
     //console.log(myKeywords.split(","));
     //from pub date to audiobook release date
     //can sub for other api endpoints: interestOverTime & interestByRegion
-    googleTrends.interestByRegion({keyword: myKeywords, startTime: myStartDate, endTime: myEndDate, geo: 'US', resolution: 'region', category: 0}) 
+    googleTrends.interestOverTime({keyword: myKeywords, startTime: myStartDate, endTime: myEndDate, geo: 'US', resolution: 'region', category: 0}) 
     .then(function(results){
         //results such that i can read, find: \}([^}]+)\{ 
         //replace:  },\n{
