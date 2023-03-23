@@ -1,0 +1,115 @@
+{"default":{"timelineData":[{"time":"1674259200","formattedTime":"Jan 21, 2023","formattedAxisTime":"Jan
+21","value":[89],"hasData":[true],"formattedValue":["89"]},{"time":"1674345600","formattedTime":"Jan 22,
+2023","formattedAxisTime":"Jan
+22","value":[100],"hasData":[true],"formattedValue":["100"]},{"time":"1674432000","formattedTime":"Jan 23,
+2023","formattedAxisTime":"Jan
+23","value":[85],"hasData":[true],"formattedValue":["85"]},{"time":"1674518400","formattedTime":"Jan 24,
+2023","formattedAxisTime":"Jan
+24","value":[73],"hasData":[true],"formattedValue":["73"]},{"time":"1674604800","formattedTime":"Jan 25,
+2023","formattedAxisTime":"Jan
+25","value":[60],"hasData":[true],"formattedValue":["60"]},{"time":"1674691200","formattedTime":"Jan 26,
+2023","formattedAxisTime":"Jan
+26","value":[51],"hasData":[true],"formattedValue":["51"]},{"time":"1674777600","formattedTime":"Jan 27,
+2023","formattedAxisTime":"Jan
+27","value":[52],"hasData":[true],"formattedValue":["52"]},{"time":"1674864000","formattedTime":"Jan 28,
+2023","formattedAxisTime":"Jan
+28","value":[37],"hasData":[true],"formattedValue":["37"]},{"time":"1674950400","formattedTime":"Jan 29,
+2023","formattedAxisTime":"Jan
+29","value":[43],"hasData":[true],"formattedValue":["43"]},{"time":"1675036800","formattedTime":"Jan 30,
+2023","formattedAxisTime":"Jan
+30","value":[59],"hasData":[true],"formattedValue":["59"]},{"time":"1675123200","formattedTime":"Jan 31,
+2023","formattedAxisTime":"Jan
+31","value":[41],"hasData":[true],"formattedValue":["41"]},{"time":"1675209600","formattedTime":"Feb 1,
+2023","formattedAxisTime":"Feb
+1","value":[57],"hasData":[true],"formattedValue":["57"]},{"time":"1675296000","formattedTime":"Feb 2,
+2023","formattedAxisTime":"Feb
+2","value":[29],"hasData":[true],"formattedValue":["29"]},{"time":"1675382400","formattedTime":"Feb 3,
+2023","formattedAxisTime":"Feb
+3","value":[28],"hasData":[true],"formattedValue":["28"]},{"time":"1675468800","formattedTime":"Feb 4,
+2023","formattedAxisTime":"Feb
+4","value":[36],"hasData":[true],"formattedValue":["36"]},{"time":"1675555200","formattedTime":"Feb 5,
+2023","formattedAxisTime":"Feb
+5","value":[43],"hasData":[true],"formattedValue":["43"]},{"time":"1675641600","formattedTime":"Feb 6,
+2023","formattedAxisTime":"Feb
+6","value":[23],"hasData":[true],"formattedValue":["23"]},{"time":"1675728000","formattedTime":"Feb 7,
+2023","formattedAxisTime":"Feb
+7","value":[19],"hasData":[true],"formattedValue":["19"]},{"time":"1675814400","formattedTime":"Feb 8,
+2023","formattedAxisTime":"Feb
+8","value":[16],"hasData":[true],"formattedValue":["16"]},{"time":"1675900800","formattedTime":"Feb 9,
+2023","formattedAxisTime":"Feb
+9","value":[34],"hasData":[true],"formattedValue":["34"]},{"time":"1675987200","formattedTime":"Feb 10,
+2023","formattedAxisTime":"Feb
+10","value":[50],"hasData":[true],"formattedValue":["50"]},{"time":"1676073600","formattedTime":"Feb 11,
+2023","formattedAxisTime":"Feb
+11","value":[31],"hasData":[true],"formattedValue":["31"]},{"time":"1676160000","formattedTime":"Feb 12,
+2023","formattedAxisTime":"Feb
+12","value":[13],"hasData":[true],"formattedValue":["13"]},{"time":"1676246400","formattedTime":"Feb 13,
+2023","formattedAxisTime":"Feb
+13","value":[15],"hasData":[true],"formattedValue":["15"]},{"time":"1676332800","formattedTime":"Feb 14,
+2023","formattedAxisTime":"Feb
+14","value":[26],"hasData":[true],"formattedValue":["26"]},{"time":"1676419200","formattedTime":"Feb 15,
+2023","formattedAxisTime":"Feb
+15","value":[22],"hasData":[true],"formattedValue":["22"]},{"time":"1676505600","formattedTime":"Feb 16,
+2023","formattedAxisTime":"Feb
+16","value":[30],"hasData":[true],"formattedValue":["30"]},{"time":"1676592000","formattedTime":"Feb 17,
+2023","formattedAxisTime":"Feb
+17","value":[0],"hasData":[false],"formattedValue":["0"]},{"time":"1676678400","formattedTime":"Feb 18,
+2023","formattedAxisTime":"Feb
+18","value":[33],"hasData":[true],"formattedValue":["33"]},{"time":"1676764800","formattedTime":"Feb 19,
+2023","formattedAxisTime":"Feb
+19","value":[18],"hasData":[true],"formattedValue":["18"]},{"time":"1676851200","formattedTime":"Feb 20,
+2023","formattedAxisTime":"Feb
+20","value":[20],"hasData":[true],"formattedValue":["20"]},{"time":"1676937600","formattedTime":"Feb 21,
+2023","formattedAxisTime":"Feb
+21","value":[20],"hasData":[true],"formattedValue":["20"]},{"time":"1677024000","formattedTime":"Feb 22,
+2023","formattedAxisTime":"Feb
+22","value":[25],"hasData":[true],"formattedValue":["25"]},{"time":"1677110400","formattedTime":"Feb 23,
+2023","formattedAxisTime":"Feb
+23","value":[10],"hasData":[true],"formattedValue":["10"]},{"time":"1677196800","formattedTime":"Feb 24,
+2023","formattedAxisTime":"Feb
+24","value":[44],"hasData":[true],"formattedValue":["44"]},{"time":"1677283200","formattedTime":"Feb 25,
+2023","formattedAxisTime":"Feb
+25","value":[11],"hasData":[true],"formattedValue":["11"]},{"time":"1677369600","formattedTime":"Feb 26,
+2023","formattedAxisTime":"Feb
+26","value":[27],"hasData":[true],"formattedValue":["27"]},{"time":"1677456000","formattedTime":"Feb 27,
+2023","formattedAxisTime":"Feb
+27","value":[25],"hasData":[true],"formattedValue":["25"]},{"time":"1677542400","formattedTime":"Feb 28,
+2023","formattedAxisTime":"Feb
+28","value":[21],"hasData":[true],"formattedValue":["21"]},{"time":"1677628800","formattedTime":"Mar 1,
+2023","formattedAxisTime":"Mar
+1","value":[6],"hasData":[true],"formattedValue":["6"]},{"time":"1677715200","formattedTime":"Mar 2,
+2023","formattedAxisTime":"Mar
+2","value":[27],"hasData":[true],"formattedValue":["27"]},{"time":"1677801600","formattedTime":"Mar 3,
+2023","formattedAxisTime":"Mar
+3","value":[28],"hasData":[true],"formattedValue":["28"]},{"time":"1677888000","formattedTime":"Mar 4,
+2023","formattedAxisTime":"Mar
+4","value":[7],"hasData":[true],"formattedValue":["7"]},{"time":"1677974400","formattedTime":"Mar 5,
+2023","formattedAxisTime":"Mar
+5","value":[9],"hasData":[true],"formattedValue":["9"]},{"time":"1678060800","formattedTime":"Mar 6,
+2023","formattedAxisTime":"Mar
+6","value":[22],"hasData":[true],"formattedValue":["22"]},{"time":"1678147200","formattedTime":"Mar 7,
+2023","formattedAxisTime":"Mar
+7","value":[15],"hasData":[true],"formattedValue":["15"]},{"time":"1678233600","formattedTime":"Mar 8,
+2023","formattedAxisTime":"Mar
+8","value":[10],"hasData":[true],"formattedValue":["10"]},{"time":"1678320000","formattedTime":"Mar 9,
+2023","formattedAxisTime":"Mar
+9","value":[8],"hasData":[true],"formattedValue":["8"]},{"time":"1678406400","formattedTime":"Mar 10,
+2023","formattedAxisTime":"Mar
+10","value":[16],"hasData":[true],"formattedValue":["16"]},{"time":"1678492800","formattedTime":"Mar 11,
+2023","formattedAxisTime":"Mar
+11","value":[0],"hasData":[false],"formattedValue":["0"]},{"time":"1678579200","formattedTime":"Mar 12,
+2023","formattedAxisTime":"Mar
+12","value":[15],"hasData":[true],"formattedValue":["15"]},{"time":"1678665600","formattedTime":"Mar 13,
+2023","formattedAxisTime":"Mar
+13","value":[12],"hasData":[true],"formattedValue":["12"]},{"time":"1678752000","formattedTime":"Mar 14,
+2023","formattedAxisTime":"Mar
+14","value":[20],"hasData":[true],"formattedValue":["20"]},{"time":"1678838400","formattedTime":"Mar 15,
+2023","formattedAxisTime":"Mar
+15","value":[11],"hasData":[true],"formattedValue":["11"]},{"time":"1678924800","formattedTime":"Mar 16,
+2023","formattedAxisTime":"Mar
+16","value":[16],"hasData":[true],"formattedValue":["16"]},{"time":"1679011200","formattedTime":"Mar 17,
+2023","formattedAxisTime":"Mar
+17","value":[8],"hasData":[true],"formattedValue":["8"]},{"time":"1679097600","formattedTime":"Mar 18,
+2023","formattedAxisTime":"Mar
+18","value":[16],"hasData":[true],"formattedValue":["16"]},{"time":"1679184000","formattedTime":"Mar 19,
+2023","formattedAxisTime":"Mar 19","value":[0],"hasData":[false],"formattedValue":["0"]}],"averages":[]}}
