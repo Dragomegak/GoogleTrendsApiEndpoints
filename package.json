@@ -5,7 +5,8 @@
   "main": "PageGoogleTrendsPull.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node PageGoogleTrendsPull.js"
+    "start": "node PageGoogleTrendsPull.js",
+    "start2": "node PageGTrendsPull.js"
   },
   "author": "Steven Le",
   "license": "UNLICENSED",
