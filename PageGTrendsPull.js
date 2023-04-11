@@ -35,7 +35,7 @@ app.get('/', (req, res) => {
 
     function getvalues(keyword, startDate = undefined, endDate = undefined){
 
-        if(startDate == undefined || endDate == undefined){
+        //if(startDate == undefined || endDate == undefined){
             //works
             console.log(keyword); //'Women\'s march'
             explorer.addKeyword(keyword)
@@ -46,16 +46,16 @@ app.get('/', (req, res) => {
             }).catch( error => {
                 console.log('[!] Failed fetching csv data due to an error',error)
             })
-        }
-        else{
-            console.log(keyword);
+        //}
+        //else{
+            //console.log(keyword);
             //console.log(typeof startDate);
-            console.log(startDate);
+            //console.log(startDate);
             //console.log(typeof endDate);
-            console.log(endDate);
+            //console.log(endDate);
             
             //happening too fast concurrently and giving undefined
-           /*  explorer.addKeyword(keyword)
+            /* explorer.addKeyword(keyword)
             .between(startDate,endDate)
             .download().then( csv => {
                 console.log('[✔] Done, take a look at your beautiful CSV formatted data!')
@@ -63,13 +63,14 @@ app.get('/', (req, res) => {
             }).catch( error => {
                 console.log('[!] Failed fetching csv data due to an error',error)
             }) */
-        }
+       //}
 
     }
     
     if (myKeywords.indexOf(',') > -1) { 
         myKeywords = myKeywords.split(",");
     }
+    //console.log(myKeywords);
 
     if(typeof myKeywords === 'string'){
         //only 1 value in
